@@ -11,7 +11,7 @@
 
 **运行界面**
                                                                          
-![the outcome of point_Gui](https://github.com/yaoli1992/dianyunPCL_QT_demo/blob/master/image/image.JPG)
+![the outcome of point_Gui](https://github.com/yaoli1992/English_sentences_label/blob/main/img/1.PNG)
 
 
 
